@@ -14,3 +14,4 @@ http://www.gigapan.com/gigapans/170690
 * （準備中）
 
 **ディスカッション**
+https://github.com/dronebird/droneworkshop20151206kamiyama/issues/1
