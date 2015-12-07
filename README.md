@@ -3,10 +3,11 @@
 <img src="https://cloud.githubusercontent.com/assets/416977/11610297/7da1a996-9be1-11e5-876b-c0a05fcc7600.png">
 
 ドローンワークショップ＠神山 #4K徳島 用レポジトリ
-@mapconcierge as director of DRONE BIRD https://readyfor.jp/projects/dronebird
+@mapconcierge as director of DRONE BIRD 
 
-<img src="http://crisismappers.jp/img/top/readyfor_button3.png" width="300">
+<a href="https://readyfor.jp/projects/dronebird"><img src="http://crisismappers.jp/img/top/readyfor_button3.png" width="300"></a>
 
+https://readyfor.jp/projects/dronebird
 
 **プレゼン資料**
 * http://www.slideshare.net/mapconcierge/drone-workshop-week-4k
