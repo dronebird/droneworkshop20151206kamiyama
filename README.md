@@ -5,7 +5,7 @@
 ドローンワークショップ＠神山 #4K徳島 用レポジトリ
 @mapconcierge as director of DRONE BIRD https://readyfor.jp/projects/dronebird
 
-<img src="http://crisismappers.jp/img/top/readyfor_button3.png">
+<img src="http://crisismappers.jp/img/top/readyfor_button3.png" width="300">
 
 
 **プレゼン資料**
