@@ -7,14 +7,25 @@
 
 
 **プレゼン資料**
-* （準備中）
+* http://www.slideshare.net/mapconcierge/drone-workshop-week-4k
 
 **空撮画像**
 * 2015年3月に撮影した空撮オルソ画像＠神山
 http://www.gigapan.com/gigapans/170690
 
 **データ**
-* （準備中）
+（準備中）
+
+* 当日撮影の映像
+北側駐車場からの映像
+https://www.facebook.com/mapconcierge/videos/vb.100000569420263/1158042574224712/?type=2&theater
+
+南側川岸からの映像
+https://www.facebook.com/mapconcierge/videos/vb.100000569420263/1157851754243794/?type=2&theater
+
+テストフライト
+https://www.facebook.com/mapconcierge/videos/vb.100000569420263/1157849960910640/?type=2&theater
+
 
 **ディスカッション**
 https://github.com/dronebird/droneworkshop20151206kamiyama/issues/1
