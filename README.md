@@ -1,4 +1,6 @@
-# droneworkshop20151206kamiyama [![CC BY-SA4.0 licensed](https://upload.wikimedia.org/wikipedia/commons/d/d0/CC-BY-SA_icon.svg)](https://github.com/dronebird/droneworkshop20151206kamiyama/)
+# droneworkshop20151206kamiyama
+
+[![CC BY-SA4.0 licensed](https://upload.wikimedia.org/wikipedia/commons/d/d0/CC-BY-SA_icon.svg)](https://github.com/dronebird/droneworkshop20151206kamiyama/)
 
 <img src="https://cloud.githubusercontent.com/assets/416977/11610297/7da1a996-9be1-11e5-876b-c0a05fcc7600.png">
 
